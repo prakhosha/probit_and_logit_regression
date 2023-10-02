@@ -133,7 +133,7 @@ X_train, X_test, y_train, y_test = train_test_split(df[[1, 2, 3]], df[4], test_s
 
 The probit model can be written mathematically as:
 
-$$Y = \phi(g(x))$$
+\\[Y = \phi(g(x))\\]
 
 where $g(x)$ is a linear model
 
