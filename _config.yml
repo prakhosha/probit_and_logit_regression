@@ -1,8 +1,9 @@
-title: Home
+title: Journal
 theme: minima
 
-author: Angga Bayu Prakhosha
-email: anggaprakhosha@gmail.com
+author:
+  name: Angga Bayu Prakhosha
+  email: anggaprakhosha@gmail.com
 
 kramdown:
   math_engine: mathjax
