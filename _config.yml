@@ -5,5 +5,7 @@ remote_theme: sighingnow/jekyll-gitbook
 #  values:
 #    mathjax: true
 
+syntax_highlighter_style: colorful
+
 #toc:
 #    enabled: true
