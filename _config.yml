@@ -1,2 +1,4 @@
 title: Probit and Logit Regression
-mathjax: true
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
