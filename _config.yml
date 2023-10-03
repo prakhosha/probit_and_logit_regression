@@ -1,10 +1,10 @@
-title: Probit and Logit Regression
+title: [Probit and Logit Regression](https://prakhosha.github.io/)
 theme: minima
 
 author:
   name: Angga Bayu Prakhosha
-  email: anggaprakhosha@gmail.com
-  
+#  email: anggaprakhosha@gmail.com
+
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
