@@ -1,9 +1,9 @@
-remote_theme: minima
+theme: minima
 #layout: default
 
 #defaults:
 #  values:
 #    mathjax: true
 
-toc:
-    enabled: true
+#toc:
+#    enabled: true
