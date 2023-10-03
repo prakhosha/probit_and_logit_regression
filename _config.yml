@@ -1,4 +1,18 @@
 title: Probit and Logit Regression
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+
+author: Angga Bayu Prakhosha
+show_downloads: true
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+
+social-network-links:
+  email: "someone@example.com"
