@@ -1,6 +1,9 @@
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: minima
 #layout: default
 
 #defaults:
 #  values:
 #    mathjax: true
+
+toc:
+    enabled: true
