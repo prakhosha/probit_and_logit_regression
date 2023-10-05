@@ -9,6 +9,7 @@
       
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 
+
 ```python
 import pandas as pd
 import numpy as np
@@ -22,6 +23,8 @@ from sklearn.model_selection import train_test_split
 **The building block of artificial intelligence**
 
 *Posted on: September 2023*
+
+---
 
 The fundamental building block of neural network is a model that mimic neuron cell. We can model this neuron using a model that output a value between 0 and 1, zero representing inactive cell and 1 representing active cell. Two populars model that output a value between 0 and 1 are probit regression and logit regression.
 
