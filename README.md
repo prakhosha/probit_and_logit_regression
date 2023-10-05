@@ -1,3 +1,10 @@
+
+---
+layout: post
+title: Probit and Logit Regression
+permalink: /
+---
+
 <script type="text/x-mathjax-config">
         MathJax.Hub.Config({
           tex2jax: {
@@ -8,12 +15,6 @@
 </script>
       
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-
----
-layout: post
-title: Probit and Logit Regression
-permalink: /
----
 
 ```python
 import pandas as pd
